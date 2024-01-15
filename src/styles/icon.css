@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "tomatto"; /* Project id 4326541 */
+  /* Color fonts */
+  src: 
+       url('//at.alicdn.com/t/c/font_4326541_g7x41j1ipys.woff2?t=1699774297627') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4326541_g7x41j1ipys.ttf?t=1699774297627') format('truetype');
+}
+
+.tomatto {
+  font-family: "tomatto" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fanqie-tianchong-:before {
+  content: "\e650";
+}
+
+.fanqie3:before {
+  content: "\e68e";
+}
+
+.fanqie2:before {
+  content: "\e8d9";
+}
+
+.fanqie:before {
+  content: "\e694";
+}
+
+.fanqie1:before {
+  content: "\e609";
+}
